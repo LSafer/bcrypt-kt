@@ -1,4 +1,4 @@
-# bcrypt-kt
+# bcrypt-kt [![](https://jitpack.io/v/net.lsafer/bcrypt-kt.svg)](https://jitpack.io/#net.lsafer/bcrypt-kt)
 
 A simple kotlin wrapper for a bcrypt java implementation
 
