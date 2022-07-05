@@ -60,7 +60,7 @@ object BCryptKt {
      */
     fun hash(
         password: String,
-        cost: Int = 16,
+        cost: Int = 6,
         hasher: BCrypt.Hasher = BCrypt.withDefaults()
     ): String {
         val passwordBytes = password.toByteArray()
